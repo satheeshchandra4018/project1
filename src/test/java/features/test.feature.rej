@@ -1,8 +1,0 @@
-diff a/src/test/java/features/test.feature b/src/test/java/features/test.feature	(rejected hunks)
-@@ -1,5 +1,5 @@
- #Author: Ravi Prakash
--#Keywords Summary :
-+#Keywords Summary : Test
- #Feature: List of scenarios.
- #Scenario: Business rule through list of steps with arguments.
- #Given: Some precondition step
