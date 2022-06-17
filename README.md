@@ -12,8 +12,8 @@ Web Automation Framework : This is basic web automation framework made by using 
 <h2>Standards Guidlines</h2>
 <ul>
   <li>Script writing</li>
+  <li>Feature writing</li>
   <li>Program writing</li>
-  <li>Java</li>
 </ul>
 
 <hr>
