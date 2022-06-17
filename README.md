@@ -4,7 +4,7 @@ Web Automation Framework : This is basic web automation framework made by using 
 <h2>Getting Started</h2>
 <ul>
   <li>
-    <a href="https://raviprakashh.medium.com/eclipse-set-up-for-automation-4e4cf9eea284">Eclipse setup</a>
+    <a href="https://raviprakashh.medium.com/eclipse-set-up-for-automation-4e4cf9eea284" target="_blank">Eclipse setup</a>
   </li>
 </ul>
 
